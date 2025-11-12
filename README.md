@@ -1,18 +1,20 @@
-# (Un)Installation
+# Scripts
 
-If you would like to install cutler, run:
+## cutler
+
+For installing cutler, run this:
 
 ```bash
-curl -fsSL https://cutlerhq.github.io/scripts/install.sh | /bin/bash
+curl -fsSL https://machlit.github.io/scripts/install-cutler.sh | /bin/bash
 ```
 
 If you would like to uninstall it, however, then run:
 
 ```bash
-curl -fsSL https://cutlerhq.github.io/scripts/uninstall.sh | /bin/bash
+curl -fsSL https://machlit.github.io/scripts/uninstall-cutler.sh | /bin/bash
 ```
 
-## Paths in Use
+### Paths in Use
 
 When installing, cutler will place its files in the following locations:
 
