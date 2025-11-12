@@ -3,13 +3,13 @@
 If you would like to install cutler, run:
 
 ```bash
-curl -fsSL https://cutlercli.github.io/scripts/install.sh | /bin/bash
+curl -fsSL https://cutlerhq.github.io/scripts/install.sh | /bin/bash
 ```
 
 If you would like to uninstall it, however, then run:
 
 ```bash
-curl -fsSL https://cutlercli.github.io/scripts/uninstall.sh | /bin/bash
+curl -fsSL https://cutlerhq.github.io/scripts/uninstall.sh | /bin/bash
 ```
 
 ## Paths in Use

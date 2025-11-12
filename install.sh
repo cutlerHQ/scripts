@@ -2,7 +2,7 @@
 
 set -e
 
-REPO="cutlerCLI/cutler"
+REPO="cutlerHQ/cutler"
 BINARY="cutler"
 INSTALL_DIR="/usr/local/bin"
 OS="$(uname -s)"
