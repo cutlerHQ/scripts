@@ -32,7 +32,7 @@ if [[ -z "$LATEST_TAG" ]]; then
 fi
 
 # Compose asset name
-ASSET="cutler-$LATEST_TAG-darwin-$ARCH_PREFIX.zip"
+ASSET="cutler-aarch64-apple-darwin.zip"
 ASSET_URL="https://github.com/$REPO/releases/download/$LATEST_TAG/$ASSET"
 
 echo "⬇️  Downloading $ASSET_URL ..."
